@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+
+# Datos generados
+data/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Variables de entorno
+.env
+
+# Logs
+logs/
+
+# VS Code
+.vscode/
